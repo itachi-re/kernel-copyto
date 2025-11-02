@@ -3,7 +3,7 @@ Version: 2
 Release: 1
 Summary: Kernel copyto configurations for kernel-install
 License: GPL-3.0-or-later
-URL: https://github.com/yourusername/kernel-copyto
+URL: https://github.com/itachi-re/kernel-copyto
 BuildArch: noarch
 
 %description
